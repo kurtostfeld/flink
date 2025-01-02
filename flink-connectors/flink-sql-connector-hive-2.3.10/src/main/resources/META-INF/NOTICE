@@ -49,7 +49,7 @@ the Apache Software License 2.0 (http://www.apache.org/licenses/LICENSE-2.0.txt)
 - org.apache.parquet:parquet-hadoop-bundle:1.8.1
 - org.apache.thrift:libthrift:0.14.1
 - org.apache.thrift:libfb303:0.9.3
-- org.objenesis:objenesis:2.1
+- org.objenesis:objenesis:3.4
 
 The bundled Apache Hive org.apache.hive:hive-exec dependency bundles the following dependencies under the BSD license.
 See bundled license files for details.
